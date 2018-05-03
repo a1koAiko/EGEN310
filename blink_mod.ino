@@ -1,4 +1,4 @@
-*
+/*
   Blink
 
   Turns an LED on for in a pattern of 4on, 2off, 1on,1off, .5on, .5off, etc... repeatedly.
